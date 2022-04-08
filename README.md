@@ -1,5 +1,5 @@
 # Calculator_Swift
-This is my application "Calcon" (calculator) written on Swift.
+This is my application Calculator written on Swift.
 Calcon was optimized for every iphone view with StackView and constraints.
 
 View from Iphone 13 pro max:
